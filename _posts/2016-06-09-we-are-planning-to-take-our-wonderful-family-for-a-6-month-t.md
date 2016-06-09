@@ -8,17 +8,17 @@ description: >-
   We are planning to take our wonderful family for a 6 month trip around Europe
   and the US. This site will be the place where we will update our experiences
   and our (life) lessons learned.
-datePublished: '2016-06-09T05:30:46.217Z'
-dateModified: '2016-06-09T05:30:32.406Z'
+datePublished: '2016-06-09T07:49:20.415Z'
+dateModified: '2016-06-09T07:49:06.948Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: >-
+  _posts/2016-06-09-we-are-planning-to-take-our-wonderful-family-for-a-6-month-t.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-09-we-are-planning-to-take-our-wonderful-family-for-a-6-month-t.md
 url: we-are-planning-to-take-our-wonderful-family-for-a-6-month-t/index.html
 _type: Article
 
