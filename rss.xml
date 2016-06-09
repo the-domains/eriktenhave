@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[eriktenhave]]></title>
         <description><![CDATA[eriktenhave]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eriktenhave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 05:30:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 07:49:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eriktenhave/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dae826bc-2329-4df4-aa28-3c7863f97c57.jpg" alt="" title="">]]></description>
-            <link>undefinedwe-are-planning-to-take-our-wonderful-family-for-a-6-month-t/index.html</link>
+            <link>https://thegrid.ai/eriktenhave/we-are-planning-to-take-our-wonderful-family-for-a-6-month-t/index.html</link>
             <guid isPermaLink="false">240dad47-b6a3-46e9-81d1-17e8b3996cdc</guid>
-            <pubDate>Thu, 09 Jun 2016 05:30:46 GMT</pubDate>
+            <pubDate>Thu, 09 Jun 2016 07:49:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
